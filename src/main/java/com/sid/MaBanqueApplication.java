@@ -14,7 +14,7 @@ public class MaBanqueApplication extends SpringBootServletInitializer{
     //private UsersRepository usersRepository;
 	public static void main(String[] args) {
 	SpringApplication.run(MaBanqueApplication.class, args);  
-
+    
 	}
 
 	@Override
